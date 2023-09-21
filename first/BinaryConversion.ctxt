@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BinaryConversion
+comment1.params=decimalNumber
+comment1.target=java.lang.String\ decimalToBinary(int)
+comment2.params=binaryNumber
+comment2.target=boolean\ isBinaryPalindrome(java.lang.String)
+comment3.params=binaryNumber
+comment3.target=java.lang.String\ reverseBinary(java.lang.String)
+comment4.params=binaryNumber
+comment4.target=int\ binaryToDecimal(java.lang.String)
+numComments=5
